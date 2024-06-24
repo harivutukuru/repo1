@@ -1,1 +1,1 @@
-select * from sys.sysprocesses where spid>70
+select * from sys.sysprocesses where spid>75
